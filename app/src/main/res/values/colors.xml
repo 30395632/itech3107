@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="my_white">#FFFFFF</color>
+    <color name="B7B7B7">#B7B7B7</color>
+    <color name="colro_666666">#666666</color>
+    <color name="mycolor_theme">#E74D73</color>
+
+    <color name="blue">#0000CD</color>
+    <color name="green">#0000FF</color>
+    <color name="red">#D53E37</color>
+    <color name="tabhostbackground">#778899</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#333333</color>
+    <color name="hot_3d">#8AB7CA</color>
+    <color name="background_bg1">#E6E5E3</color>
+    <color name="background_bg2">#e1e1e1</color>
+    <color name="background_bg3">#696969</color>
+    <color name="background_bg7">#f6f6f5</color>
+    <color name="textcolor_white_a">#FFFFFF</color>
+    <color name="textcolor_black_b1">#000000</color>
+    <color name="textcolor_black_b2">#666666</color>
+    <color name="textcolor_black_b3">#999999</color>
+    <color name="textcolor_red_text">#c2001e</color>
+    <color name="textcolor_red_d">#e5533b</color>
+    <color name="transparent">#00000000</color>
+    <color name="darkgrey">#DDDDDD</color><!--亮灰色  -->
+    <color name="lightgray">#999999</color><!-- 浅灰 -->
+    <color name="lightwhite">#EEEEEE</color><!--浅白色    -->
+    <color name="rippleColor">#58FAAC</color>
+    <color name="red_deep">#B61F1B</color>
+    <color name="font_red">#D64948</color>
+    <color name="font_white">#FFFFFF</color>
+    <color name="hot_activity_top_color">#67624F</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+
+    <color name="mycolor_ffffff">#ffffff</color>
+    <color name="mycolor_000000">#000000</color>
+    <color name="mycolor_666666">#666666</color>
+    <color name="mycolor_f5f5f5">#f5f5f5</color>
+    <color name="mycolor_425062">#425062</color>
+    <color name="mycolor_2F313E">#2F313E</color>
+    <color name="mycolor_F6F6F6">#F6F6F6</color>
+
+
+    <color name="theme">#feb806</color>
+    <color name="black_transparent">#80000000</color>
+    <color name="bigred">#C91623</color>
+    <color name="hintcolor">#b6b6b6</color>
+    <color name="loginline">#45bd73</color>
+    <color name="oriange">#ff9a00</color>
+    <color name="dark">#424242</color>
+    <color name="grey">#8C8C8C</color>
+    <color name="light_red">#fa4b4b</color>
+    <color name="theme_lanse">#3F51B5</color>
+    <color name="gray_meituan">#494042</color>
+    <color name="gray_meituan2">#e6494042</color>
+
+
+    <color name="text_color_gray">#b5b5b5</color>
+
+
+    <color name="colorOrange">#FB594F</color>
+    <color name="bg_gray">#F2F2F2</color>
+    <color name="text_gray">#999999</color>
+    <color name="up">#FB4F67</color>
+    <color name="down">#666666</color>
+    <color name="select_red">#FD594F</color>
+    <color name="divide_gray_color">#f5f5f5</color>
+    <color name="cf0f2f7">#f0f2f7</color>
+
+    <color name="unSelectTabColor">#DD2E56</color>
+    <color name="textblack">#333333</color>
+    <color name="pickerview_bg_topbar">#f5f5f5</color>
+    <color name="canok">#00cccc</color>
+    <color name="pickerview_topbar_title">#000000</color>
+    <color name="pickerview_wheelview_textcolor_out">#a8a8a8</color>
+    <color name="pickerview_wheelview_textcolor_center">#2a2a2a</color>
+    <color name="pickerview_wheelview_textcolor_divider">#d5d5d5</color>
+
+    <color name="bg_top">#FFFD594F</color>
+    <color name="FF506D">#FF506D</color>
+
+    <color name="divider">#BDBDBD</color>
+    <color name="btn_time_pickerview_pressed">#c2daf5</color>
+    <color name="unse">#FF999999</color>
+    <color name="font_common_1">#424242</color>
+    <color name="commom_background">#f3f3f3</color>
+    <color name="font_blue">#42369a</color>
+    <color name="font_common_2">#a1a1a1</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_e6e6e6">#E6E6E6</color>
+
+    <color name="graymin">#77787b</color>
+
+    <color name="color_666666">#666666</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_f91d46">#F91D46</color>
+    <color name="lable_blue">#CCCCCC</color>
+    <color name="color_f9991d">#F9991D</color>
+    <color name="color_52b258">#52B258</color>
+    <color name="color_f2f4f7">#F2F4F7</color>
+    <color name="color_313233">#313233</color>
+</resources>

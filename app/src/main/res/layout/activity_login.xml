@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <RelativeLayout
+        android:background="@color/mycolor_theme"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="45dp">
+        <TextView
+            android:textSize="14sp"
+            android:text="log on"
+            android:textColor="@color/my_white"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/et_login_activity_zhanghao"
+            android:hint="Please enter an account"
+            android:padding="8dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_button_bg" />
+
+
+        <EditText
+            android:inputType="textPassword"
+            android:id="@+id/et_login_activity_password"
+            android:layout_marginTop="30dp"
+            android:hint="Please enter the password"
+            android:padding="8dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_button_bg" />
+
+
+        <LinearLayout
+            android:layout_marginTop="30dp"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:gravity="center_horizontal"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content">
+                <Button
+                    android:id="@+id/btn_login_activity_register"
+                    android:layout_marginLeft="15dp"
+                    android:background="@color/mycolor_theme"
+                    android:textColor="@color/my_white"
+                    android:textSize="13sp"
+                    android:text="register"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:gravity="center_horizontal"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content">
+                <Button
+                    android:id="@+id/btn_login_activity_login"
+                    android:background="@color/mycolor_theme"
+                    android:textColor="@color/my_white"
+                    android:textSize="13sp"
+                    android:text="log on"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
